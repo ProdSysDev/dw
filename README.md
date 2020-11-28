@@ -1,5 +1,4 @@
-# onvirtual.cards
-
+# Onvirtual Cards
 This is a demo application called **onvirtual.cards** used to illustrate how to integrate with Weavr.  This demo is also deployed and accessible at https://demo.onvirtual.cards.  To create an account visit https://demo.weavr.io.
 
 **This app is made up of 2 parts:**
